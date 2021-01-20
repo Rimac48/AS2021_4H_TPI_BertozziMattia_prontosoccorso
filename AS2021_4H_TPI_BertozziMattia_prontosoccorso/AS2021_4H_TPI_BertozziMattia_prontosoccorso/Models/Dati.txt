@@ -1,0 +1,184 @@
+		08/01/2021:00:00
+Nome:			Luca
+Cognome:		Rossi
+Data di Nascita:	12/03/2000
+CF:			RSSLCU12C00H294Q
+Colore:			Giallo
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Surry
+Cognome:		WasTaken
+Data di Nascita:	19/12/1995
+CF:			WSTARR19J95H294T
+Colore:			Giallo
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Liam
+Cognome:		Bartolini
+Data di Nascita:	29/01/2003
+CF:			BRTLMI29A03H294W
+Colore:			Bianco
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Nando
+Cognome:		Angela
+Data di Nascita:	23/10/2018
+CF:			AGLNDN23H18H294K
+Colore:			Rosso
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Prova
+Cognome:		Prova
+Data di Nascita:	02/01/2021
+CF:			prprprprprr
+Colore:			Rosso
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+		08/01/2021:00:00
+Nome:			Luca
+Cognome:		Rossi
+Data di Nascita:	12/03/2000
+CF:			RSSLCU12C00H294Q
+Colore:			Giallo
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Surry
+Cognome:		WasTaken
+Data di Nascita:	19/12/1995
+CF:			WSTARR19J95H294T
+Colore:			Giallo
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Liam
+Cognome:		Bartolini
+Data di Nascita:	29/01/2003
+CF:			BRTLMI29A03H294W
+Colore:			Bianco
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Nando
+Cognome:		Angela
+Data di Nascita:	23/10/2018
+CF:			AGLNDN23H18H294K
+Colore:			Rosso
+Accettazione:08/01/2021:10:40
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Prova
+Cognome:		Prova
+Data di Nascita:	02/01/2021
+CF:			prprprprprr
+Colore:			Rosso
+Accettazione:08/01/2021:10:40
+Dimmissione:08/01/2021:10:40
+			;
+
+		08/01/2021:00:00
+Nome:			Luca
+Cognome:		Rossi
+Data di Nascita:	12/03/2000
+CF:			RSSLCU12C00H294Q
+Colore:			Giallo
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Surry
+Cognome:		WasTaken
+Data di Nascita:	19/12/1995
+CF:			WSTARR19J95H294T
+Colore:			Giallo
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Liam
+Cognome:		Bartolini
+Data di Nascita:	29/01/2003
+CF:			BRTLMI29A03H294W
+Colore:			Bianco
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Nando
+Cognome:		Angela
+Data di Nascita:	23/10/2018
+CF:			AGLNDN23H18H294K
+Colore:			Rosso
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Prova
+Cognome:		Prova
+Data di Nascita:	02/01/2021
+CF:			prprprprprr
+Colore:			Rosso
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+		08/01/2021:00:00
+Nome:			Luca
+Cognome:		Rossi
+Data di Nascita:	12/03/2000
+CF:			RSSLCU12C00H294Q
+Colore:			Giallo
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Surry
+Cognome:		WasTaken
+Data di Nascita:	19/12/1995
+CF:			WSTARR19J95H294T
+Colore:			Giallo
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Liam
+Cognome:		Bartolini
+Data di Nascita:	29/01/2003
+CF:			BRTLMI29A03H294W
+Colore:			Bianco
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Nando
+Cognome:		Angela
+Data di Nascita:	23/10/2018
+CF:			AGLNDN23H18H294K
+Colore:			Rosso
+Accettazione:08/01/2021:10:42
+Dimmissione:01/01/0001:00:00
+			;
+
+Nome:			Prova
+Cognome:		Prova
+Data di Nascita:	02/01/2021
+CF:			prprprprprr
+Colore:			Rosso
+Accettazione:08/01/2021:10:42
+Dimmissione:08/01/2021:10:42
+			;
+
